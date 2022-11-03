@@ -1,2 +1,3 @@
 # computation-and-programing-projects-
-Contains python codes that are run using PyCharm 
+Contains python code for a timer that counts down, written in python and run by pycharm.
+
